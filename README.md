@@ -41,7 +41,9 @@ ___________________________________________________
 
 --RUNNING THE SCRIPT:
 -Use existing ADB or the one from nordSDK to enter fastbootd with:
+
 "adb reboot bootloader"
+
 "fastboot reboot fastboot"
 
 -Check on phone that is says fastbootd.

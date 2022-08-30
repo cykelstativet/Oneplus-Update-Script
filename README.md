@@ -37,7 +37,7 @@ ___________________________________________________
 -I think that's it??
 
 -In theory, if this is all setup correctly, you should just have to enter fastbootd and run the script:
-
+___________________________________________________
 
 --RUNNING THE SCRIPT:
 -Use existing ADB or the one from nordSDK to enter fastbootd with:

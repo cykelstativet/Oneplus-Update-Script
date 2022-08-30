@@ -2,7 +2,7 @@
 Script to flash partitions one by one in fastbootd.
 ___________________________________________________
 
-First of all, this is all very much at your own risk. I'm not even a script kiddie, i have no idea what i'm doing.
+FIRST OF ALL, THIS IS ALL VERY MUCH AT YOUR OWN RISK! I'M NOT EVEN A SCRIPT KIDDIE, I HAVE NO IDEA WHAT I'M DOING!
 
 Second, i know this looks like a lot of stuff to do, but once it's setup on your PC, it's just extracting payload, entering fastbootd and running the script. You just have to setup the correct directories on your PC the first time. It's a very dumb script which is why i'm writing everything in detailed step-by-step monkey-brain instructions. This way it might actually work.
 
@@ -12,6 +12,7 @@ At the end there will be a brief guide on using it when you have already set it 
 ___________________________________________________
 
 --FIRST TIME SETUP:
+
 -I recommend creating this directory "C:\Android\" and extracting the firmwareFlashing.zip here. It will make the instructions easier. This should give: C:\Android\nordSDK\, C:\Android\payload_dumper\, C:\Android\phoneModel\.
 
 
@@ -40,6 +41,7 @@ ___________________________________________________
 ___________________________________________________
 
 --RUNNING THE SCRIPT:
+
 -Use existing ADB or the one from nordSDK to enter fastbootd with:
 
 "adb reboot bootloader"

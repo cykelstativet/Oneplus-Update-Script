@@ -50,4 +50,4 @@ ___________________________________________________
 
 -Check on phone that is says fastbootd.
 
--Now run "flash_all.bat" and the script should guide you through the rest.
+-Now run "flash_all.bat" and the script should guide you through the rest. When it asks to chose a slot, i recommend changing to the inactive one.

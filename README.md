@@ -15,6 +15,8 @@ ___________________________________________________
 -Put the three folders in the zip inside C:\Android\ 
 
 -Bootloader should be unlocked, of course.
+
+-Also, i fucked up the script. Lol. I uploaded a fixed .bat file here. It's just a directory in the top that needs to be changed.
 ___________________________________________________
 
 --RUNNING THE SCRIPT:

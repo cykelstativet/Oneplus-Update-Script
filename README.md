@@ -1,4 +1,6 @@
 # Oneplus-Update-Script
+Of course GitHub has file size limits, so what was even the point of creating this? Anyway, [here's a MEGA link to the zip](https://mega.nz/file/wx4GWIjC#6EL90MSAfmehv2B_qpbQRZ1Z934M6fnaw7EBHtctHQY)
+___________________________________________________
 Script to flash partitions one by one in fastbootd.
 ___________________________________________________
 
